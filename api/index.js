@@ -1,6 +1,6 @@
 const express = require("express");
 const axios = require("axios");
-const askGroq = require("./src/AIBot");
+const askGroq = require("../src/AIBot");
 const cors = require('cors');
 require("dotenv").config();
 
