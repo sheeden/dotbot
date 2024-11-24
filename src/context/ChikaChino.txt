@@ -1,0 +1,191 @@
+Restaurant name: ChikaChino
+
+Appetizer:
+1. Chicken Corn Soup - Rs429
+2. Chicken Hot and Sour Soup - Rs549
+3. Dynamite Chicken - Rs749
+4. Supreme Nachos - Rs629
+   Details: Tortillas Chips, Jalapeno, Cheese, Black Olive, Salsa and Sour Cream
+5. Grilled Quesadillas - Rs749
+   Details: Char Grilled Flour, Tortillas, Fill, Mozzarella, Tomatoes, Onion, Salsa and Sour Cream
+
+Chaat:
+1. Papri Chaat - Rs399
+2. Chikachino Dahi Bhallay - Rs399
+3. Samosa Chaat - Rs349
+4. Gol Gappay - Rs349
+5. Bhel Puri - Rs399
+
+Paratha and Rolls
+1. Chicken Cheese Paratha Roll - Rs599
+2. Zinger Roll - Rs629
+3. Malai Boti Roll - Rs629
+4. Nutella Paratha - Rs629
+5. Aalo Paratha - Rs300
+6. Pizza Paratha - Rs649
+7. Chipotle Wrap - Rs529
+
+Snacks:
+1. Pakora Mela - Rs399
+2. Patakha Chicken Pakora - Rs649
+3. Assorted Samosa Basket - Rs449
+4. Loaded Fires - Rs699
+5. Crispy Chicken Strips - Rs649
+6. Chicken Wings - Rs629
+
+Pakistani:
+1. CC Chicken Karahi 
+   Size: Half - Rs949, Full - Rs 1849
+2. CC Mutton Karahi 
+   Size: Half - Rs1799, Full - Rs 2999
+3. Chicken Makhni Karahi 
+   Size: Half - Rs999, Full - Rs 1899
+4. Chicken Mughlai Handi - Rs1199
+5. Chicken Paneer Reshmi Handi - Rs1499
+
+Tandoor:
+1. Sada Naan - Rs79
+2. Roghni Naan - Rs109
+3. Kalwanji Naan - Rs119
+4. Garlic Naan - Rs119
+5. Chapati - Rs49
+
+Hot Beverages:
+1. Karak Chai - Rs229
+2. CC Masala Chai - Rs279
+3. Peshawari Kahwa - Rs139
+4. Kashmiri Chai - Rs229
+5. Gur Wali Chai - Rs229
+6. Sulmani Chai - Rs199
+7. Tandoori Chai - Rs229
+8. CC Special Chai - Rs429
+
+Burger & Sandwiches:
+1. Chikachino Special Burger - Rs699
+2. Railway Station Mighty Burger - Rs899
+3. Zinger Burger - Rs599
+4. Jalapeni Beef Cheese Burger - Rs649
+5. Chicken BBQ Burger - Rs699
+6. Grill Chicken Sandwich - Rs689
+7. Chicken Tikka Sandwich - Rs749
+8. Honey Mustard Sandwich - Rs679
+9. Club Sandwich - Rs679
+10. Burns Road Bun Kabab - Rs429/Rs529
+
+Fish:
+1. Fried Fish - Rs1500 (small), Rs2800 (large)
+2. BBQ Fish - Rs1500 (small), Rs2800 (large)
+3. Fish & Chips - Rs899
+
+BBQ:
+1. Grand BBQ Platter (4 Person serving) - Rs3549
+   Details: Mixture of BBQ, Kaba, Bater (Quail), Meats and Rice in a signature
+2. Grand BBQ Platter (2 Person serving) - Rs1999
+   Details: Mixture of BBQ, Kaba, Bater (Quail), Meats and Rice in a signature
+3. Chicken Malai Boti (8pcs) - Rs899
+4. Chicken Tikka Boti (8pcs) - Rs849
+5. Bihari Boti (8pcs) - Rs849
+6. Chicken Seekh Kabab (4pcs) - Rs849
+7. Beef Seekh Kabab (4pcs) - Rs899
+8. Chicken Tikka Red - Rs529
+9. Chicken Tikka White - Rs529
+
+Side Orders:
+1. Plain Fries - Rs349
+2. Zeera Raita - Rs175
+3. CC Special Raita - Rs229
+4. Fresh Green Salad - Rs199
+
+Meetha:
+1. CC Special Jalebi - Rs449
+2. Hot Gulab Jamun - Rs399
+3. Shahi Tukray - Rs429
+4. Ras Malai - Rs429
+5. Qulfa Falooda - Rs399
+6. French Toast - Rs399
+7. Creamy Kunafa - Rs799
+8. Chocolate Kunafa - Rs799
+
+Icecream:
+1. Vanilla Ice Cream - 2 scoops Rs299 , 3 scoops Rs 399 , special Rs499
+2. Strawberry Ice Cream - 2 scoops Rs299 , 3 scoops Rs 399 , special Rs499
+3. Mango Ice Cream - 2 scoops Rs299 , 3 scoops Rs 399 , special Rs499
+4. Tutti Frutti Ice Cream - 2 scoops Rs299 , 3 scoops Rs 399 , special Rs499
+5. Chocolate Ice Cream - 2 scoops Rs299 , 3 scoops Rs 399 , special Rs499
+6. Kulfa Ice Cream - 2 scoops Rs299 , 3 scoops Rs 399 , special Rs499
+
+Chicken Beaf Steak:
+(side order - Mash potato, Herb rice, Fries)
+1. Bistro House Special Steak (Sizzler) - Rs1495
+   Details: House special steak to get you hooked on the flavor
+2. Jalapeno Chicken - Rs 1045
+   Details: Spice kick of our tender chicken cooked with jalapeno sauce
+3. Mushroom Chicken - Rs1099
+   Details: Grilled chicken topped with Creamy Mushroom sauce
+4. Black Pepper Chicken - Rs999
+   Details: Grill chicken breast topped with Black Pepper sauce
+5. Moroccan Chicken - Rs1049
+   Details: Grill Chicken topped with Spicy Creamy Moroccan Sauce
+6. Tarragon Chicken - Rs999
+   Details: Grill chickenbreast serve with Tarragon Sauce
+
+Chikachino Pizza:
+1. Chicken Tikka Pizza
+   sizes: Small - Rs549, Medium - Rs999, Large - Rs1759
+2. Crown Crust Pizza
+   sizes: Small - Rs659, Medium - Rs1159, Large - Rs1859
+3. Calzone Pizza
+   sizes: Small - Rs1159, Large - Rs1759
+
+Chinese:
+1. Chicken Chilli Dry - Rs749
+   Details: Tantalizing Blend of Succulent Chicken Pieces Marinated in aromatic spices
+2. Chicken Manchurian - Rs699
+   Details: A tender chicken chunk cooked in a savory and tangy sauce
+3. Chicken Shashlik - Rs749
+   Details: Succulent chicken pieces marinated in a blend of spices and grilled to perfection
+4. Chicken Chow Mein - Rs739
+   Details: Chicken vegetable noodles stir fried & a soya sauce
+5. Alfredo Pasta - Rs 849
+   Details: Fettuccini Pasta cooked in Alfredo Sauce topped with Grilled chicken
+6. Cajun Chicken Pasta - Rs 799
+   Details: Penna pasta, tossed in creamy Cajun Spicy sauce topped with grill chicken
+
+Smoothies:
+1. Strawberry Smoothie - Rs 539
+2. Vanilla Smoothie - Rs 549
+3. Mango Smoothie - Rs 529
+
+Margarita Cold Beverages:
+1. Mint Margarita - Rs379
+2. Mint Shikanjbeen - Rs299
+3. Strawberry - Rs399
+4. Blueberry - Rs395
+5. Peach - Rs409
+6. Lemon - Rs349
+7. Soft Drink - Rs179
+8. Lemon Soda - Rs229
+9. Mineral Water Large - Rs169
+10. Mineral Water Small - Rs89
+
+
+Summer Deals: (available 12pm - 6pm)
+1. HOT DEAL - Rs1600
+   Details: 1 chicken burger, 2 Jalapeno Beef cheese burgers, Fries, 1Ltr drink
+2. Combo Deal - Rs1099 
+   Details: Honey BBQ wings, Chicken Strips, Onion Rings, 4 Cutlets, 5 Multi Sauces
+3. Family Deal - Rs2499
+   Details: 5 Zinger burgers, 2 Fries, 1.5Ltr Drink
+4. Student Deal - Rs1100
+   Details: 2 Zinger Burger (with fries), 2 Mint Margarita
+
+
+Contact Information:
+Phone: 0300 9542683
+Email: example@example.com
+Address: Akron Plaza, Acantilado Commercial, Bahria Town Phase 7, Rawalpindi, Pakistan
+
+
+Services:
+Dine-in
+Outdoor seating

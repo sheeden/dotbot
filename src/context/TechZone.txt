@@ -1,0 +1,97 @@
+Retailer Name: TechZone
+Laptops:
+
+    Dell Inspiron 15 3000 - Rs 75,000
+        Details: Intel Core i5, 8GB RAM, 1TB HDD, 15.6" HD Display
+    HP Pavilion x360 - Rs 95,000
+        Details: Intel Core i7, 8GB RAM, 512GB SSD, 14" FHD Touchscreen
+    Lenovo ThinkPad E14 - Rs 85,000
+        Details: AMD Ryzen 5, 8GB RAM, 256GB SSD, 14" FHD Display
+    Apple MacBook Air (M1) - Rs 150,000
+        Details: Apple M1 Chip, 8GB RAM, 256GB SSD, 13.3" Retina Display
+
+Desktops:
+
+    HP ProDesk 400 G7 - Rs 65,000
+        Details: Intel Core i5, 8GB RAM, 1TB HDD, Windows 10 Pro
+    Dell OptiPlex 3080 - Rs 70,000
+        Details: Intel Core i5, 8GB RAM, 512GB SSD, Windows 10 Pro
+    Lenovo V50t - Rs 68,000
+        Details: Intel Core i3, 4GB RAM, 1TB HDD, Windows 10 Home
+    Acer Aspire TC-895 - Rs 80,000
+        Details: Intel Core i5, 12GB RAM, 512GB SSD, Windows 10 Home
+
+Monitors:
+
+    Dell UltraSharp 24 - Rs 30,000
+        Details: 24" Full HD IPS Display, 60Hz, 5ms response time
+    HP 24mh - Rs 28,000
+        Details: 23.8" FHD IPS Monitor, 75Hz, HDMI/VGA Ports
+    LG 27GL650F-B - Rs 40,000
+        Details: 27" Full HD, 144Hz, G-Sync Compatible
+    Samsung Odyssey G5 - Rs 55,000
+        Details: 27" WQHD, 144Hz, 1ms, Curved Gaming Monitor
+
+Printers:
+
+    HP LaserJet Pro M15w - Rs 18,000
+        Details: Wireless, Monochrome, Laser Printer
+    Canon Pixma G3010 - Rs 22,000
+        Details: Wireless, All-in-One InkTank Printer
+    Epson EcoTank L3150 - Rs 28,000
+        Details: Wi-Fi All-in-One InkTank Printer, Print, Scan, Copy
+    Brother HL-L2370DW - Rs 20,000
+        Details: Monochrome Laser Printer with Duplex Printing and Wireless Networking
+
+Accessories:
+
+    Logitech MK270 Wireless Keyboard & Mouse Combo - Rs 3,500
+    HP X500 Wired Optical Mouse - Rs 900
+    WD My Passport 1TB External HDD - Rs 7,500
+    Seagate Expansion 2TB Portable External HDD - Rs 10,500
+    TP-Link Archer C6 Gigabit Dual-Band Wi-Fi Router - Rs 5,800
+    Logitech C920 HD Pro Webcam - Rs 10,000
+
+Smartphones:
+
+    Samsung Galaxy A52 - Rs 55,000
+        Details: 6.5" Display, 8GB RAM, 128GB Storage, 4500mAh Battery
+    Apple iPhone 12 - Rs 150,000
+        Details: 6.1" Super Retina XDR Display, A14 Bionic Chip, 64GB Storage
+    Xiaomi Redmi Note 10 Pro - Rs 45,000
+        Details: 6.67" AMOLED Display, 6GB RAM, 128GB Storage, 5020mAh Battery
+    OnePlus 9 - Rs 120,000
+        Details: 6.55" Fluid AMOLED Display, Snapdragon 888, 8GB RAM, 128GB Storage
+
+Tablets:
+
+    Apple iPad Air (2020) - Rs 95,000
+        Details: 10.9" Liquid Retina Display, A14 Bionic Chip, 64GB Storage
+    Samsung Galaxy Tab S7 - Rs 120,000
+        Details: 11" TFT Display, Snapdragon 865+, 6GB RAM, 128GB Storage
+    Lenovo Tab M10 - Rs 30,000
+        Details: 10.1" FHD Display, 4GB RAM, 64GB Storage, Android 10
+    Huawei MatePad Pro - Rs 85,000
+        Details: 10.8" 2K Display, Kirin 990, 6GB RAM, 128GB Storage
+
+Gaming Consoles:
+
+    Sony PlayStation 5 - Rs 160,000
+        Details: 825GB SSD, 4K Gaming, DualSense Controller
+    Microsoft Xbox Series X - Rs 145,000
+        Details: 1TB SSD, 4K Gaming, Xbox Wireless Controller
+    Nintendo Switch - Rs 70,000
+        Details: 6.2" Display, 32GB Storage, Joy-Con Controllers
+
+Contact Information:
+
+    Phone: 0311 1234567
+    Email: support@techzone.pk
+    Address: Plaza 25, Tech Street, Blue Area, Islamabad, Pakistan
+
+Services:
+
+    In-store purchase
+    Online shopping with delivery
+    Installation and setup assistance
+    Technical support and repairs
