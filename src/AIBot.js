@@ -3,7 +3,7 @@ const path = require("path");
 const Groq = require("groq-sdk");
 require("dotenv").config();
 
-const contextFilePath = path.join(__dirname, "./context/ChikaChino.txt");
+const contextFilePath = path.join(__dirname, "./context/mydata.txt");
 const context = fs.readFileSync(contextFilePath, "utf-8");
 
 const contextFilePathRetail = path.join(__dirname, "./context/TechZone.txt");

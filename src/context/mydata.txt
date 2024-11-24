@@ -1,0 +1,77 @@
+Business name: CareFuge
+
+Available:
+1. Yes ! we have list of rooms available , please find select one from below menu:
+2. Single Rooms
+3. Shared Rooms
+4. Ensuites
+   Details: Tortillas Chips, Jalapeno, Cheese, Black Olive, Salsa and Sour Cream
+5. Houses , ensuites
+   Details: Char Grilled Flour, Tortillas, Fill, Mozzarella, Tomatoes, Onion, Salsa and Sour Cream
+
+Rooms:
+1. Yes ! we have list of rooms available , please find select one from below menu:
+2. Single Rooms
+3. Shared Rooms
+4. Ensuites
+   Details: Tortillas Chips, Jalapeno, Cheese, Black Olive, Salsa and Sour Cream
+5. Houses , ensuites
+   Details: Char Grilled Flour, Tortillas, Fill, Mozzarella, Tomatoes, Onion, Salsa and Sour Cream
+
+Room:
+1. Yes ! we have list of rooms available , please find select one from below menu:
+2. Single Rooms
+3. Shared Rooms
+4. Ensuites
+   Details: Tortillas Chips, Jalapeno, Cheese, Black Olive, Salsa and Sour Cream
+5. Houses , ensuites
+   Details: Char Grilled Flour, Tortillas, Fill, Mozzarella, Tomatoes, Onion, Salsa and Sour Cream
+
+Cost:
+1. 15 GBP per Week
+2. 60 GBP per Month
+
+Maintenance:
+1. you have to mantain your rooms
+2. you have to clean the rooms
+
+Criteria:
+1. Your Age , Benefits and maritial status ?
+2. Reason of leaving previous property ?
+3. Agree with Rules, no pets, no students , keep your property clean daily
+
+Number:
+1. Please drop your number I will call you either today or tomorrow !
+
+Call:
+1. Please drop your number I will call you either today or tomorrow !
+
+Message:
+1. Please drop your number I will call you either today or tomorrow !
+
+MSG:
+1. Please drop your number I will call you either today or tomorrow !
+
+
+Whatsapp:
+1. Please drop your number I will call you either today or tomorrow !
+
+
+Husband:
+1. You both claim separate ?
+
+Partner:
+1. You both claim separate ?
+
+
+BoyFriend:
+1. You both claim separate ?
+
+
+Phone: +4444444444444
+Email: abid@carefuge.uk
+Address: Birmingham
+
+
+Services:
+Rooms and Houses for Rent
