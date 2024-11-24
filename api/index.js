@@ -37,37 +37,37 @@ app.get("/webhook", (req, res) => {
   }
 });
 
-// app.post("/webhook", async (req, res) => {
-//   const messaging = req.body.entry?.[0]?.messaging?.[0];
+app.post("/webhook", async (req, res) => {
+  const messaging = req.body.entry?.[0]?.messaging?.[0];
 
-//   if (messaging && messaging.sender && messaging.message) {
-//     const question = messaging.message.text;
-//     const answer = await askGroq(question);
+  if (messaging && messaging.sender && messaging.message) {
+    const question = messaging.message.text;
+    const answer = await askGroq(question);
 
-//     const senderId = messaging.sender.id;
-//     const pageId = messaging.recipient.id;
+    const senderId = messaging.sender.id;
+    const pageId = messaging.recipient.id;
 
-//     const url = `https://graph.facebook.com/${GRAPH_API_VERSION}/${pageId}/messages?access_token=${PAGE_ACCESS_TOKEN}`;
-//     const payload = {
-//       recipient: { id: senderId },
-//       messaging_type: "RESPONSE",
-//       message: { text: answer },
-//     };
+    const url = `https://graph.facebook.com/${GRAPH_API_VERSION}/${pageId}/messages?access_token=${PAGE_ACCESS_TOKEN}`;
+    const payload = {
+      recipient: { id: senderId },
+      messaging_type: "RESPONSE",
+      message: { text: answer },
+    };
 
-//     try {
-//       await axios.post(url, payload, {
-//         headers: { "Content-Type": "application/json" },
-//       });
-//       console.log("Message Sent");
-//     } catch (error) {
-//       console.error(
-//         `Error sending message: ${error.response?.data || error.message}`
-//       );
-//     }
-//   }
+    try {
+      await axios.post(url, payload, {
+        headers: { "Content-Type": "application/json" },
+      });
+      console.log("Message Sent");
+    } catch (error) {
+      console.error(
+        `Error sending message: ${error.response?.data || error.message}`
+      );
+    }
+  }
 
-//   res.status(200).send("OK");
-// });
+  res.status(200).send("OK");
+});
 
 app.post("/askChikaChino", async (req, res) => {
   const { question } = req.body;
